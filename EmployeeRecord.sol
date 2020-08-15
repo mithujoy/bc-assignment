@@ -26,7 +26,3 @@ contract EmployeeRecord{
         return(empName, empId, companyName, department,  designation, onboardDate, age, location);
     }
 }
-
-
-https://github.com/mithujoy/bc-assignment/EmployeeRecord.sol
-https://github.com/mithujoy/bc-assignment/PassangerRecord.sol
